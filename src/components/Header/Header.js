@@ -1,13 +1,13 @@
 import React, { Component } from "react";
 
-// import menuSVG from "../../assets/images/menu.svg";
-// import icon1SVG from "../../assets/images/icon1.svg";
-// import logoSVG from "../../assets/images/logo.svg";
-// import searchSVG from "../../assets/images/search.svg";
-// import searchBtnSVG from "../../assets/images/searchBtn.svg";
-// import newVideoSVG from "../../assets/images/newVideo.svg";
-// import appsSVG from "../../assets/images/apps.svg";
-// import notificationsSVG from "../../assets/images/notifications.svg";
+import menuSVG from "../../assets/images/menu.svg";
+import icon1SVG from "../../assets/images/icon1.svg";
+import logoSVG from "../../assets/images/logo.svg";
+import searchSVG from "../../assets/images/search.svg";
+import searchBtnSVG from "../../assets/images/searchBtn.svg";
+import newVideoSVG from "../../assets/images/newVideo.svg";
+import appsSVG from "../../assets/images/apps.svg";
+import notificationsSVG from "../../assets/images/notifications.svg";
 import "./header.css";
 
 export default class Header extends Component {

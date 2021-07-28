@@ -1,6 +1,7 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import HomePage from './containers/HomePage/HomePage';
+import HomePage from './containers/HomePage/HomePage'
 
 import {
   BrowserRouter as Router,
@@ -33,3 +34,4 @@ class App extends React.Component {
 }
 
 export default App;
+

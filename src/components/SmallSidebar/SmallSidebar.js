@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import home from "../../assets/images/home.svg";
-// import homeRed from "../../assets/images/homeRed.svg";
+import homeRed from "../../assets/images/homeRed.svg";
 
-// import library from "../../assets/images/library.svg";
-// import subscriptions from "../../assets/images/subscriptions.svg";
-// import trending from "../../assets/images/trending.svg";
+import library from "../../assets/images/library.svg";
+import subscriptions from "../../assets/images/subscriptions.svg";
+import trending from "../../assets/images/trending.svg";
 
 
 
