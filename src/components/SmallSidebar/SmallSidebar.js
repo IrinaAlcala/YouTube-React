@@ -6,7 +6,7 @@ import home from "../../assets/images/home.svg";
 // import subscriptions from "../../assets/images/subscriptions.svg";
 // import trending from "../../assets/images/trending.svg";
 
-import "./small-sidebar.css";
+
 
 export default class SmallSidebar extends Component {
 	render() {
